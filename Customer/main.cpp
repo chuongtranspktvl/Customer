@@ -15,4 +15,5 @@ int main()
 	Invoice invoice3(1998, customer3, 100000);
 	cout << "Customer Name : " << invoice3.getCustomerName() << endl;
 	cout << "Invoice After Discount For " << customer3.getDiscount() << "%" << " : " << invoice3.getAmountAfterDiscount() << endl;
+	//hihi;
 }
